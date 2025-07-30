@@ -24,12 +24,11 @@ setup(
     packages=["Castl"],
     package_dir={"": "."},
     author="Yiyi Yu",
-    author_email="13728855611@163.com",
+    author_email="yiyiyu11@163.com",
     description="A Consensus Framework for Robust Identification of Spatially Variable Genes in Spatial Transcriptomics",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/TheY11/Castl",
-    packages=find_packages(),
     package_data={
         'Castl.r_utils': ['R/*.R', 'DESCRIPTION', 'NAMESPACE'],
     },

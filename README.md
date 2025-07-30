@@ -57,15 +57,15 @@ library(castlRUtils)
 ## 4 Tutorials
 Detailed usage instructions and tutorials for `Castl` are available at:
 
-[Tutorial 1: 10x Visium colorectal cancer liver metastasis datasets.](https://github.com/TheY11/Castl/docs/tutorials/Tutorial1_CRC.ipynb)
+[Tutorial 1: 10x Visium colorectal cancer liver metastasis datasets.](./docs/tutorials/Tutorial1_CRC.ipynb)
 
-[Tutorial 2: 10x Visium human dorsolateral prefrontal cortex (DLPFC) datasets.](https://github.com/TheY11/Castl/docs/tutorials/Tutorial2_DLPFC.ipynb)
+[Tutorial 2: 10x Visium human dorsolateral prefrontal cortex (DLPFC) datasets.](./docs/tutorials/Tutorial2_DLPFC.ipynb)
 
-[Tutorial 3: Stereo-seq mouse olfactory bulb datasets.](https://github.com/TheY11/Castl/docs/tutorials/Tutorial3_Stereoseq_MOB.ipynb)
+[Tutorial 3: Stereo-seq mouse olfactory bulb datasets.](./docs/tutorials/Tutorial3_Stereoseq_MOB.ipynb)
 
-[Tutorial 4: Slide-seqV2 mouse olfactory bulb datasets.](https://github.com/TheY11/Castl/docs/tutorials/Tutorial4_SlideseqV2_MOB.ipynb)
+[Tutorial 4: Slide-seqV2 mouse olfactory bulb datasets.](./docs/tutorials/Tutorial4_SlideseqV2_MOB.ipynb)
 
-[Tutorial 5: MERFISH mouse hypothalamic preoptic region data.](https://github.com/TheY11/Castl/docs/tutorials/Tutorial5_MERFISH.ipynb)
+[Tutorial 5: MERFISH mouse hypothalamic preoptic region data.](./docs/tutorials/Tutorial5_MERFISH.ipynb)
 
 ## 5 Improvements
 For questions or issues, please [open an issue](https://github.com/TheY11/Castl/issues).
