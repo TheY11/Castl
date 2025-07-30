@@ -1,0 +1,6 @@
+include README.md
+include requirements.txt
+include setup.R
+include Castl/r_utils/*
+include Castl/r_utils/R/*
+include Castl/r_utils/man/*

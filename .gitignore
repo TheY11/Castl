@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+build/
+dist/
+
+# R
+*.RData
+*.Rhistory
+
+# General
+.DS_Store
+*.swp
+.idea/
+.vscode/
