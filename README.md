@@ -3,6 +3,8 @@
 ## 1 Overview
 `Castl` is a novel consensus-based analytical framework designed to enhance the accuracy and robustness of spatially variable genes identification for spatially resolved transcriptomics through statistically rigorous algorithms, including **rank aggregation**, **p-value aggregation**, and **Stabl aggregation**. Comprehensive evaluations on both simulated and real-world data demonstrate that Castl consistently identifies biologically meaningful spatial expression patterns, mitigates method-specific biases and effectively controls FDRs across various biological contexts, resolutions, and spatial technologies. This flexible, assumption-free framework offers a robust and standardized foundation for spatially informed feature discovery in complex biological systems. 
 
+![figure](./docs/figures/Figure1_workflow.png)
+
 ## 2 System Requirements
 ### Python
 - Python >= 3.9.5
