@@ -3,8 +3,6 @@
 ## 1 Overview
 `Castl` is a novel consensus-based analytical framework designed to enhance the accuracy and robustness of spatially variable genes identification for spatially resolved transcriptomics through statistically rigorous algorithms, including **rank aggregation**, **p-value aggregation**, and **Stabl aggregation**. Comprehensive evaluations on both simulated and real-world data demonstrate that Castl consistently identifies biologically meaningful spatial expression patterns, mitigates method-specific biases and effectively controls FDRs across various biological contexts, resolutions, and spatial technologies. This flexible, assumption-free framework offers a robust and standardized foundation for spatially informed feature discovery in complex biological systems. 
 
-![figure1](./docs/figures/Figure1_workflow.png)
-
 ## 2 System Requirements
 ### Python
 - Python >= 3.9.5
@@ -35,7 +33,7 @@
 ### Python
 `Castl` can be installed directly from PyPI：
 ```bash
-pip install Castl
+pip install STCastl
 ```
 
 or download from Github and install it:
@@ -55,17 +53,7 @@ library(castlRUtils)
 ```
 
 ## 4 Tutorials
-Detailed usage instructions and tutorials for `Castl` are available at:
-
-[Tutorial 1: 10x Visium colorectal cancer liver metastasis datasets.](./docs/tutorials/Tutorial1_CRC.ipynb)
-
-[Tutorial 2: 10x Visium human dorsolateral prefrontal cortex (DLPFC) datasets.](./docs/tutorials/Tutorial2_DLPFC.ipynb)
-
-[Tutorial 3: Stereo-seq mouse olfactory bulb datasets.](./docs/tutorials/Tutorial3_Stereoseq_MOB.ipynb)
-
-[Tutorial 4: Slide-seqV2 mouse olfactory bulb datasets.](./docs/tutorials/Tutorial4_SlideseqV2_MOB.ipynb)
-
-[Tutorial 5: MERFISH mouse hypothalamic preoptic region data.](./docs/tutorials/Tutorial5_MERFISH.ipynb)
+Detailed usage instructions and tutorials for `Castl` are available at: <https://castl-analysis.readthedocs.io/en/latest/>
 
 ## 5 Improvements
 For questions or issues, please [open an issue](https://github.com/TheY11/Castl/issues).

@@ -20,7 +20,7 @@ install_r_package()
 
 setup(
     name="STCastl",
-    version="0.1.0",
+    version="0.1.1",
     packages=["Castl"],
     package_dir={"": "."},
     author="Yiyi Yu",
